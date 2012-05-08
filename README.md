@@ -15,7 +15,7 @@ CBC Web is an attempt at creating a usable web interface for the CBCv2 series of
 * copy the tarball over to the cbc, and extract it to /mnt/usb/
 * clone this git repository (git clone https://github.com/crunkmaster/cbc-web)
 * copy the contents of the cbc-web directory to /mnt/usb/lighty/
-* in the /mnt/usb/lighty directory, modify the lighttpd.conf file so the line with cgi.assign looks like this -- cgi.assign = ( ".sh" => "/bin/sh", ".pl" => "/usr/bin/perl", ".cgi" => "" )
+* if you make any changes directly on the cbc, make sure they are backed up because the /mnt/usb partition will be deleted if the cbc powers off (working on a way around that).
 
 ## Project information
 
