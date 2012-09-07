@@ -11,7 +11,7 @@ CBC Web is an attempt at creating a usable web interface for the CBCv2 series of
 ## Usage
 
 * *This assumes you have a wireless adapter configured for the CBC and you have ssh access to it.
-* download the lighttpd built for the chumby -- http://files.chumby.com/hacks/lighttpd_chumby_1.7.tar.gz
+* download lighttpd built for the chumby -- http://files.chumby.com/hacks/lighttpd_chumby_1.7.tar.gz
 * copy the tarball over to the cbc, and extract it to /mnt/usb/
 * clone this git repository (git clone https://github.com/crunkmaster/cbc-web)
 * copy the contents of the cbc-web directory to /mnt/usb/lighty/
