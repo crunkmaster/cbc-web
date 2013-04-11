@@ -1,4 +1,4 @@
-# [CBC Web]
+# CBC Web
 
 CBC Web is an attempt at creating a usable web interface for the CBCv2 series of robotics controllers. In its current state it includes a main page which provides a convenient way to access analog and digital sensor readings and a secondary page providing a proof of concept remote control interface using jquery and terrible .cgi scripts.
 
@@ -32,4 +32,3 @@ CBC Web is an attempt at creating a usable web interface for the CBCv2 series of
 * Normalize.css: Public Domain
 * HTML5 Boilerplate: Public Domain
 
-## I like Markdown
